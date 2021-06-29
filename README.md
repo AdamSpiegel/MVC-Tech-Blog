@@ -3,19 +3,15 @@
 
   ## Table of Contents :books:	
    1. [Description](#description)
-   2. [Installation](#installation)
-   3. [Project Usage](#Project-Usage)
-   4. [License Information](#License-Information)
-   5. [Contributors](#Project-Contributors)
-   6. [Testing Instructions](#Testing-Instructions )
-   7. [Deployed App/Screentshot](#Deployed-App)
-   8. [Contact Info](#Questions)
+   2. [Project Usage](#Project-Usage)
+   3. [License Information](#License-Information)
+   4. [Contributors](#Project-Contributors)
+   5. [Testing Instructions](#Testing-Instructions )
+   6. [Deployed App/Screentshot](#Deployed-App)
+   7. [Contact Info](#Questions)
    
   ## Description :computer::computer_mouse:	
   A CMS-style blog site which will be used by developers to provide features such as publishing articles, and blogging posts, thoughts and opinions.
-
-  ## Installation :hammer_and_wrench:	
-  Follow These Steps:
 
   ## Project Usage :woman_technologist:	
   This project is a blog site which includes a homepage where you can view exisiting blog posts if any exist, and navigation links for the homepage and dashboard, along with an option to login.  You should be able to "sign in" or "sign up", utilizing a username and password.  Your credentials have the capability of being saved. After signing in, you have the ability to navigate to the homepage, dashboard, and the option to log out.  The homepage includes exisitng blog posts that include the post title and date created.  When you click an exisiting blog post, you are given the post's title, creator, and date created.  You can also comment and submit additional blogs after signing in.  An overall blog web application, utilizing user authentication and ability to comment, edit, and delete blogs.
