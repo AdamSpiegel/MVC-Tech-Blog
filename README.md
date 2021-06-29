@@ -23,7 +23,8 @@
   Adam Spiegel
 
   ## Testing Instructions :microscope:	
-  Follow link below to Heroku deployed app
+  Follow link below to Heroku deployed app.  This project utilizes Node.js, NPM packages, Javascript, Express, Express Handlebars, Sequelize, MYSQL2 and Bcrypt.
+
 
   ## Deployed Heroku Application Link and Screenshot
   
